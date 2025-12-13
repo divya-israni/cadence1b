@@ -762,9 +762,9 @@ For more information, visit: https://opensource.org/licenses/MIT
 ```
 @software{ai_recruitment_system,
   title = {AI-Powered Recruitment System},
-  author = {[Your Team]},
-  year = {2024},
-  url = {[repository-url]}
+  author = {cadence1B},
+  year = {2025},
+  url = {[https://github.com/divya-israni/cadence1b.git]}
 }
 ```
 
