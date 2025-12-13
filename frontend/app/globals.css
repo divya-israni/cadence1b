@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Enhanced typography for job descriptions and resumes */
+@layer components {
+  .formatted-text {
+    @apply text-gray-800 leading-relaxed;
+  }
+  
+  .formatted-text h1,
+  .formatted-text h2,
+  .formatted-text h3,
+  .formatted-text h4 {
+    @apply font-semibold text-gray-900 mt-4 mb-2;
+  }
+  
+  .formatted-text h1 {
+    @apply text-xl;
+  }
+  
+  .formatted-text h2 {
+    @apply text-lg;
+  }
+  
+  .formatted-text h3 {
+    @apply text-base;
+  }
+  
+  .formatted-text p {
+    @apply mb-3 text-sm;
+  }
+  
+  .formatted-text ul,
+  .formatted-text ol {
+    @apply mb-3 ml-5 space-y-1;
+  }
+  
+  .formatted-text li {
+    @apply text-sm text-gray-700;
+  }
+  
+  .formatted-text strong,
+  .formatted-text b {
+    @apply font-semibold text-gray-900;
+  }
+  
+  .formatted-text a {
+    @apply text-blue-600 hover:text-blue-700 underline;
+  }
+}
+
+
