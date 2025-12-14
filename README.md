@@ -10,9 +10,11 @@
 
 | Name | GitHub Handle | Contributions |
 |------|---------------|---------------|
-| [Your Name] | [@yourgithub] | Project lead, BERT/RoBERTa implementation, backend API development |
-| [Team Member 2] | [@github2] | Data preprocessing, skill extraction, frontend development |
+| [Sadman Rahin] | [@srahin000] | Project lead, BERT/RoBERTa implementation, backend API development |
+| [Divya Israni] | [@divya-israni] | Data preprocessing and Documentation |
 | [Mehrnaz Bastani] | [@mehrnazbastani] | Data preprocessing, Model evaluation, documentation, testing |
+| [Anjali Dev] | [@dev-anj] | Model Evaluation and Presentation |
+
 
 *Note: Please update the table above with actual team member information*
 
