@@ -13,6 +13,7 @@
 | [Sadman Rahin] | [@srahin000] | Project lead, BERT/RoBERTa implementation, backend API development |
 | [Divya Israni] | [@divya-israni] | Data preprocessing, Documentation, Presentation |
 | [Mehrnaz Bastani] | [@mehrnazbastani] | Data preprocessing, Model evaluation, documentation, testing |
+| [Swetha Upadrasta] | [@swethaupa] | Data preprocessing, Model evaluation |
 | [Anjali Dev] | [@dev-anj] | Model Evaluation and Presentation |
 
 
