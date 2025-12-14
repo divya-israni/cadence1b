@@ -11,7 +11,7 @@
 | Name | GitHub Handle | Contributions |
 |------|---------------|---------------|
 | [Sadman Rahin] | [@srahin000] | Project lead, BERT/RoBERTa implementation, backend API development |
-| [Divya Israni] | [@divya-israni] | Data preprocessing and Documentation |
+| [Divya Israni] | [@divya-israni] | Data preprocessing, Documentation, Presentation |
 | [Mehrnaz Bastani] | [@mehrnazbastani] | Data preprocessing, Model evaluation, documentation, testing |
 | [Anjali Dev] | [@dev-anj] | Model Evaluation and Presentation |
 
