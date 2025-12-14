@@ -12,7 +12,7 @@
 |------|---------------|---------------|
 | [Your Name] | [@yourgithub] | Project lead, BERT/RoBERTa implementation, backend API development |
 | [Team Member 2] | [@github2] | Data preprocessing, skill extraction, frontend development |
-| [Team Member 3] | [@github3] | Model evaluation, documentation, testing |
+| [Mehrnaz Bastani] | [@mehrnazbastani] | Data preprocessing, Model evaluation, documentation, testing |
 
 *Note: Please update the table above with actual team member information*
 
